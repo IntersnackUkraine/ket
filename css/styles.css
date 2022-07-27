@@ -182,7 +182,8 @@ body {
     color: var(--main-header-background-size);
 }
 .divbusiness{
-    background: url('/images/rem/img.jpg')
+    background: url(/images/rem/img.jpg)
+    
     /* background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("/images/rem/img.jpg"); */
     /* background-size: cover;
     background-repeat: no-repeat;
