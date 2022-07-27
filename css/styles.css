@@ -186,7 +186,7 @@ body {
     width: 1600px;
     margin: auto;
     background-image:linear-gradient(rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4)), 
-    url(/images/box2.jpg);
+    url(/images/rem/Img\ \(1\).jpg);
     /* background-color: var(--main-background-hooter-color); */
     /* background-size: cover; */
     /* margin-right: auto; */
@@ -195,7 +195,7 @@ body {
 }
 
 /*===кнопка=заказать=услугу============================= */
-.main-button{
+/* .main-button{
         background-color: var(--logo-color-blue-blue);
         font-family: var(--font-roboto);
         color: var(--main-header-background-size);
@@ -213,7 +213,7 @@ body {
         letter-spacing: 0.06em;
         margin: auto;
         margin-top: 50px;
-}
+} */
 /* ===секция2============================================== */
 .pad{
     padding-bottom: 0;
